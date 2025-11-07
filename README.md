@@ -1,2 +1,2 @@
-# Froglight-Englisch_Uebersetzung
+# Froglight-Englisch_Übersetzung
 Übersetzung von Froglight auf Englisch
